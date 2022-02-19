@@ -1,4 +1,4 @@
 module.exports = {
-    USERS_API_URL: 'http://localhost:3001',
-    PRODUCTS_API_URL: 'http://localhost:3002',
+    TABUADA7_API_URL: 'http://localhost:3001',
+    WISHLIST_API_URL: 'http://localhost:3002',
 };
